@@ -1,0 +1,202 @@
+﻿query_id,category,latency_ms,latency_sec,n_contexts,pass,trace_id
+Q096,Kendala Teknis Sistem,8320.0,8.32,0,False,0019744c-f6bb-4ae1-8985-6de9962d8639
+Q095,Kendala Teknis Sistem,8063.2,8.06,0,False,4a54fb86-ba1b-49b7-931a-42d31a34bc1c
+Q094,Kendala Teknis Sistem,7309.5,7.31,0,False,f7920e59-08ed-4dad-9ad9-8e98d9c1bba8
+Q093,Kendala Teknis Sistem,7058.9,7.06,0,False,f87cdb47-f932-4518-b427-d363019e5f17
+Q092,Kendala Teknis Sistem,7422.7,7.42,0,False,20cd26d4-b25d-451e-afa0-be2e484b8206
+Q091,Kendala Teknis Sistem,6236.7,6.24,0,True,94e68ec0-9b73-4eeb-a2bf-d68f5a83b142
+Q090,Kendala Teknis Sistem,7784.4,7.78,0,False,67bf6e1a-f9dd-4f81-9e95-a61194b958f2
+Q089,Kendala Teknis Sistem,5645.0,5.64,0,True,e598a365-41ab-4c6e-a837-78c828b59a2f
+Q088,Kendala Teknis Sistem,7250.4,7.25,0,False,40db7f4c-3753-4e29-8fc7-9248a5965b0a
+Q087,Kendala Teknis Sistem,9005.8,9.01,0,False,cda9f344-5bae-4579-a117-c0a6ef234971
+Q086,Kendala Teknis Sistem,7683.9,7.68,0,False,1ad552e8-0ba3-4906-af4a-c48c9a016917
+Q085,Kendala Teknis Sistem,8385.9,8.39,0,False,e6496c11-c0e4-47ea-bd87-fed723be0022
+Q084,Kendala Teknis Sistem,9925.1,9.93,0,False,a95f636b-c2cf-4da6-bef1-bba1338ea243
+Q083,Prosedural & Kebijakan PMB,4470.9,4.47,0,True,1ea8685f-1e5a-4e18-9f81-23d3c5dbad41
+Q082,Prosedural & Kebijakan PMB,6081.8,6.08,0,True,dfec8291-45a4-4d44-8618-21e687ddf0f5
+Q081,Prosedural & Kebijakan PMB,6890.7,6.89,0,True,1882ceb4-d044-41c6-9895-78bf3f53d841
+Q080,Prosedural & Kebijakan PMB,8356.2,8.36,0,False,9be1891e-a307-48da-9d97-9f9846f654ef
+Q079,Prosedural & Kebijakan PMB,5265.5,5.27,0,True,fb41ebc2-095c-46d2-8572-351fad576040
+Q078,Prosedural & Kebijakan PMB,5265.1,5.27,0,True,9c69ba3f-2545-4af7-a71f-d04774c755f1
+Q077,Prosedural & Kebijakan PMB,5906.5,5.91,0,True,ff390941-dca1-41fd-8ac8-76852cb4551f
+Q076,Prosedural & Kebijakan PMB,5826.3,5.83,0,True,b6c8e524-0d8e-4f31-84f9-7604ced6605d
+Q075,Prosedural & Kebijakan PMB,5489.0,5.49,0,True,ddfd7508-4c98-4e2f-851a-ec66ba6d1497
+Q074,Prosedural & Kebijakan PMB,6250.5,6.25,0,True,6693e294-602a-4b2e-8178-2f18efb3644e
+Q073,Prosedural & Kebijakan PMB,4775.9,4.78,0,True,df881199-f46c-4ef9-be09-4edd2616c97f
+Q072,Prosedural & Kebijakan PMB,4917.7,4.92,0,True,c6f9c3ef-7e1c-4b9d-85fb-a9a67c7ae048
+Q071,Prosedural & Kebijakan PMB,4731.2,4.73,0,True,6cf1fa06-fcf0-401e-a5f2-fb8e08ea50d2
+Q070,Prosedural & Kebijakan PMB,5177.3,5.18,0,True,3a40ef15-664a-408b-96ad-bbda32b45855
+Q069,Prosedural & Kebijakan PMB,6144.7,6.14,0,True,12d63fc7-6827-46bb-8cff-bc79ce9d8cdf
+Q068,Prosedural & Kebijakan PMB,7750.7,7.75,0,False,aecf06d5-b556-4a41-b930-69a1c067a89a
+Q067,Prosedural & Kebijakan PMB,6462.1,6.46,0,True,4a6d00d6-2df4-44e6-9aee-30620e70b04b
+Q066,Prosedural & Kebijakan PMB,4310.3,4.31,0,True,4514bf2e-e3ed-461c-aeeb-cc1062e66e51
+Q065,Prosedural & Kebijakan PMB,6837.8,6.84,0,True,52c17a6b-0de5-4d87-afd4-e85c08458f40
+Q064,Prosedural & Kebijakan PMB,7277.5,7.28,0,False,97fba271-30d5-4e01-8f0f-a2bf4672f325
+Q063,Prosedural & Kebijakan PMB,6704.6,6.7,0,True,5d9eef2a-41e2-4f3f-80e4-b2906f182249
+Q062,Prosedural & Kebijakan PMB,4168.4,4.17,0,True,a72d82d2-fc57-423e-91d8-42a7fe09dfc5
+Q061,Format Teknis & Aturan Upload,3829.2,3.83,0,True,eb84d260-5f43-41b0-845c-1d421e0a2e5b
+Q060,Format Teknis & Aturan Upload,4762.5,4.76,0,True,c76199da-97a2-4d8b-bcbc-b5220c9ae559
+Q059,Format Teknis & Aturan Upload,10165.3,10.17,0,False,2b93298a-e738-40ad-87c1-77e5b8238c8c
+Q058,Format Teknis & Aturan Upload,6185.9,6.19,0,True,2dbb1bfe-f4c8-4f47-bec4-b310fb5f4797
+Q057,Format Teknis & Aturan Upload,7482.3,7.48,0,False,eab6e1bb-bdba-4bb8-ba21-2a99362e8104
+Q056,Format Teknis & Aturan Upload,4929.9,4.93,0,True,f262eaa4-2175-47bb-9889-cc26a659c499
+Q055,Format Teknis & Aturan Upload,4111.2,4.11,0,True,1d48e1cb-f934-4e7b-a2b2-b4068a1cf6d4
+Q054,Format Teknis & Aturan Upload,4620.9,4.62,0,True,1e15bdf9-aada-463d-9a0e-267a678bc8ee
+Q053,Format Teknis & Aturan Upload,7855.5,7.86,0,False,738d5c42-3440-4691-b989-290d6f8f6390
+Q052,Format Teknis & Aturan Upload,7997.6,8.0,0,False,b7f203f8-0404-44e4-a31c-df15c291137e
+Q051,Format Teknis & Aturan Upload,11770.4,11.77,0,False,abff6c50-d534-4383-9137-6ad7ea386982
+Q050,Format Teknis & Aturan Upload,4931.2,4.93,0,True,46166867-ceb1-4cad-a4c3-790f2cd26c16
+Q049,Format Teknis & Aturan Upload,7047.6,7.05,0,False,4ddc19d3-4b0a-479b-8bbc-36b5fc180eda
+Q048,Format Teknis & Aturan Upload,4898.7,4.9,0,True,cfd314ef-9215-4739-8422-c35f7ed8b425
+Q047,Format Teknis & Aturan Upload,6982.4,6.98,0,True,311b9385-31f2-4cd7-83ec-af8c2db9faff
+Q046,Format Teknis & Aturan Upload,6857.1,6.86,0,True,a7db092e-7f24-4343-9f2f-b37fff268e1d
+Q045,Format Teknis & Aturan Upload,7326.4,7.33,0,False,fd81d22f-8b6c-4e5c-83a9-7296fbaf1040
+Q044,Format Teknis & Aturan Upload,5672.3,5.67,0,True,43e9fc87-b16d-4695-af30-35acf49b4f95
+Q043,Format Teknis & Aturan Upload,5855.3,5.86,0,True,d3796345-5439-4e50-8511-115f765fd469
+Q042,Format Teknis & Aturan Upload,6200.8,6.2,0,True,5de1e048-5322-4f68-bfe5-29abe7bbe2a0
+Q041,Format Teknis & Aturan Upload,4735.5,4.74,0,True,d287bc11-dee0-4fed-ad1e-e55bbdb82319
+Q040,Format Teknis & Aturan Upload,4634.3,4.63,0,True,2d583971-3441-4b09-95be-17ffc89000a8
+Q039,Format Teknis & Aturan Upload,4178.3,4.18,0,True,3d66c3a6-cc05-4340-9145-20c3423fb1d9
+Q038,Format Teknis & Aturan Upload,4610.7,4.61,0,True,fe61a249-7d8f-40ff-a2c0-ee35211a4df2
+Q037,Format Teknis & Aturan Upload,4718.9,4.72,0,True,0b1da856-1320-4b20-b7af-f0552fd41194
+Q036,Data Keluarga & Kondisi Khusus,5642.2,5.64,0,True,678b2016-5071-4346-96e5-ae3f3f8b2b89
+Q035,Data Keluarga & Kondisi Khusus,9380.0,9.38,0,False,d28e9e10-0c3f-4d96-98c4-2e267f2a731e
+Q034,Data Keluarga & Kondisi Khusus,7666.2,7.67,0,False,7863c11c-c228-47be-b40c-ddb5ca83312a
+Q033,Data Keluarga & Kondisi Khusus,9312.7,9.31,0,False,70357d1d-8b4b-445e-8a72-1291ee9a02ac
+Q032,Data Keluarga & Kondisi Khusus,6775.3,6.78,0,True,de8208a5-2a79-4146-b782-096ef5cc54e0
+Q031,Data Keluarga & Kondisi Khusus,19198.9,19.2,0,False,a466971c-4bde-4da6-905e-7638fa89df32
+Q030,Data Keluarga & Kondisi Khusus,5859.0,5.86,0,True,28d30bc1-bb95-40a5-9f90-a35d13aac752
+Q028,Data Keluarga & Kondisi Khusus,9088.7,9.09,0,False,7a41e004-0884-4077-aa11-b6ac4d91fa0b
+Q027,Data Keluarga & Kondisi Khusus,10889.7,10.89,0,False,257cbd5e-b691-4f8c-bd41-3f34ac5fe639
+Q026,Data Keluarga & Kondisi Khusus,6144.8,6.14,0,True,ee24f356-3d30-4454-8509-29f5af4c310f
+Q025,Data Keluarga & Kondisi Khusus,5691.7,5.69,0,True,1b5a31e8-f2e9-4d4a-a84b-8c8ba9612c27
+Q024,Data Keluarga & Kondisi Khusus,5346.0,5.35,0,True,e3559c72-e509-4f11-a93e-d2d7d5e9cbf2
+Q023,Data Keluarga & Kondisi Khusus,7627.0,7.63,0,False,d1859e8b-dc9b-43d9-8bf9-bc6403349e8b
+Q022,Data Keluarga & Kondisi Khusus,4948.2,4.95,0,True,a13c8086-e77b-433b-ba59-7ffb5bd1dab2
+Q021,Data Keluarga & Kondisi Khusus,9207.5,9.21,0,False,8287a3cb-fe33-4d38-ac79-43fe40b26927
+Q020,Data Keluarga & Kondisi Khusus,5053.5,5.05,0,True,b050ec8d-eeca-45b9-98d9-361bf2f2e687
+Q019,Data Keluarga & Kondisi Khusus,6458.3,6.46,0,True,6b3882b0-8407-4de7-b6bb-66963442d5f4
+Q018,Data Keluarga & Kondisi Khusus,7568.2,7.57,0,False,e75285f9-7a09-470a-a996-fa81701178bf
+Q017,Data Keluarga & Kondisi Khusus,5661.0,5.66,0,True,401513ed-0831-41f5-b1fc-625dcaf49aa2
+Q016,Data Keluarga & Kondisi Khusus,6330.3,6.33,0,True,f03f520b-8832-47bf-8af9-4c4ebcae2171
+Q015,Data Keluarga & Kondisi Khusus,8055.8,8.06,0,False,29015075-45f8-45f9-b0c1-30558ecde195
+Q014,Data Keluarga & Kondisi Khusus,11078.3,11.08,0,False,bb427298-f976-4589-85e0-880a56e8ef7a
+Q013,Data Keluarga & Kondisi Khusus,6933.5,6.93,0,True,6b44e5e8-7341-43ee-a04d-bcab3f297b5a
+Q012,Data Keluarga & Kondisi Khusus,8045.4,8.05,0,False,975643ad-ffbf-4561-b6e2-ed67a2f69c59
+Q011,Data Keluarga & Kondisi Khusus,5349.5,5.35,0,True,02166db7-1330-4b17-8e5b-1cf841f66fea
+Q010,Data Keluarga & Kondisi Khusus,4668.7,4.67,0,True,f0700b7f-543e-4cdd-a121-519eb65fb842
+Q009,Data Keluarga & Kondisi Khusus,5807.8,5.81,0,True,18c621f8-4647-488a-b362-9fd10ee84f2e
+Q008,Data Keluarga & Kondisi Khusus,5049.4,5.05,0,True,59785d22-518f-4494-afec-67dcec9e7c39
+Q007,Data Keluarga & Kondisi Khusus,6245.8,6.25,0,True,685cbbd8-cfe4-4637-b1c5-aea94dd405d1
+Q006,Data Keluarga & Kondisi Khusus,7206.9,7.21,0,False,e1ba4a94-1e78-4565-afd6-34277da7a0b1
+Q005,Data Keluarga & Kondisi Khusus,6025.8,6.03,0,True,5f9fcdb8-2152-44f1-b068-34cf7edb1e40
+Q004,Data Keluarga & Kondisi Khusus,6197.5,6.2,0,True,fcc69bd3-ebea-4056-a133-20ed14df8182
+Q003,Data Keluarga & Kondisi Khusus,6954.0,6.95,0,True,de7e5ea3-39a7-4a23-817e-4657ba141686
+Q002,Data Keluarga & Kondisi Khusus,5349.4,5.35,0,True,244679c0-498a-4b27-b59d-963e4c0a0f4c
+Q001,Data Keluarga & Kondisi Khusus,5456.6,5.46,0,True,414f7d0d-899a-48aa-bc0a-5173f87f6d30
+Q096,Kendala Teknis Sistem,12522.6,12.52,0,False,4a85453a-d526-4e23-b659-48debad15ed7
+Q095,Kendala Teknis Sistem,5100.1,5.1,0,True,861b1392-f7f0-49ae-bc4a-7722aaccd82f
+Q094,Kendala Teknis Sistem,7727.7,7.73,0,False,16a88e11-fa25-4729-be69-dad7f59fd103
+Q093,Kendala Teknis Sistem,16787.5,16.79,0,False,1741efa4-e6ec-4360-9625-ec658273b86a
+Q092,Kendala Teknis Sistem,5433.4,5.43,0,True,d3196ab5-19ad-4181-b68c-926f80c4e7cb
+Q091,Kendala Teknis Sistem,7000.2,7.0,0,False,8bde54b7-e585-4e1b-b738-3a6a4457da30
+Q090,Kendala Teknis Sistem,11788.4,11.79,0,False,3821fa45-0655-49fe-bad5-c6087c9d8d02
+Q089,Kendala Teknis Sistem,6730.2,6.73,0,True,47ad1080-61d6-4d26-a35f-699e7b045dfe
+Q088,Kendala Teknis Sistem,7834.7,7.83,0,False,3e7383e3-46a0-4696-ab0e-b32a02e0ce31
+Q087,Kendala Teknis Sistem,4752.6,4.75,0,True,d27356c8-37d6-4f92-bbcb-5caa66f3b637
+Q086,Kendala Teknis Sistem,10585.9,10.59,0,False,17087fd0-a3a5-4663-b2c0-16ca495e302a
+Q085,Kendala Teknis Sistem,4091.3,4.09,0,True,3b61fbe9-f08f-4832-a6fb-bb97fdd6b1af
+Q084,Kendala Teknis Sistem,6341.1,6.34,0,True,0c03f780-bbac-429a-a478-1cf0557f671d
+Q083,Prosedural & Kebijakan PMB,5660.3,5.66,0,True,fa28c211-4ff6-4ce3-a046-e5e9d2972327
+Q082,Prosedural & Kebijakan PMB,13066.8,13.07,0,False,f1684273-bcee-4edd-9dc6-d1d89d0003be
+Q081,Prosedural & Kebijakan PMB,10878.5,10.88,0,False,e68c9a4a-2ee4-40a5-9efc-7c88acf11883
+Q080,Prosedural & Kebijakan PMB,11835.1,11.84,0,False,c3a14f03-32dc-4294-b9c8-ee6527178e05
+Q079,Prosedural & Kebijakan PMB,6451.2,6.45,0,True,baa96ae7-4e9a-41e0-ae8b-963a2fe755fe
+Q078,Prosedural & Kebijakan PMB,6457.7,6.46,0,True,0d083fd7-962f-43a4-a120-e03376f8324f
+Q077,Prosedural & Kebijakan PMB,7082.1,7.08,0,False,682653b4-2964-45ea-9da3-cabdc4dae767
+Q076,Prosedural & Kebijakan PMB,4089.2,4.09,0,True,ffbd859a-d96a-48f4-8e92-3f059ba2e7ea
+Q075,Prosedural & Kebijakan PMB,6119.9,6.12,0,True,3a243561-5274-4fce-9d06-f56e0c9b3f15
+Q074,Prosedural & Kebijakan PMB,5698.1,5.7,0,True,3a44aecc-7d7d-4229-91f0-391a05139694
+Q073,Prosedural & Kebijakan PMB,8294.5,8.29,0,False,0d2c3b10-6e31-4b2d-b0a9-af214d869146
+Q072,Prosedural & Kebijakan PMB,8194.6,8.19,0,False,bc715856-fb4a-4135-9407-dc4f7135ac36
+Q071,Prosedural & Kebijakan PMB,5052.7,5.05,0,True,f1e087b7-7e80-411b-8d6d-b4fd4d059c98
+Q070,Prosedural & Kebijakan PMB,4202.1,4.2,0,True,774ef86c-69e7-48ae-b116-0002f878d021
+Q069,Prosedural & Kebijakan PMB,6952.8,6.95,0,True,d36827a7-c36a-4ef6-a964-7bb2a459c931
+Q068,Prosedural & Kebijakan PMB,7760.0,7.76,0,False,ff79b45f-ad0c-4f06-aa9f-2a39ba9a4008
+Q067,Prosedural & Kebijakan PMB,6773.4,6.77,0,True,ac4f6267-78d0-4cb0-8f67-e67c3b17e4f7
+Q066,Prosedural & Kebijakan PMB,11409.5,11.41,0,False,bac813fb-b676-4cfe-bea4-64ab65163446
+Q065,Prosedural & Kebijakan PMB,6375.2,6.38,0,True,edd53328-3c6b-4a23-94e4-e2248d565676
+Q064,Prosedural & Kebijakan PMB,10532.3,10.53,0,False,ad0e9868-344f-4dfc-92fd-dc8e6cb5bcbe
+Q063,Prosedural & Kebijakan PMB,5686.5,5.69,0,True,40ddd470-2e33-4626-bf9f-6d997512c38a
+Q062,Prosedural & Kebijakan PMB,7535.3,7.54,0,False,59d71357-2b81-4d47-9c8f-7e9630a497f5
+Q061,Format Teknis & Aturan Upload,7496.5,7.5,0,False,f1a9350d-5971-4708-a5d9-0858fa0b82f2
+Q060,Format Teknis & Aturan Upload,6897.8,6.9,0,True,6c2dfb54-2122-47af-aae8-f6f92b702b5a
+Q059,Format Teknis & Aturan Upload,5040.5,5.04,0,True,22b4f79a-5d94-40ed-b5cd-41b6e73db820
+Q058,Format Teknis & Aturan Upload,6161.2,6.16,0,True,88f7f5a0-c693-4dbd-931a-704dca8e667a
+Q057,Format Teknis & Aturan Upload,6896.7,6.9,0,True,cc97e390-1f99-4528-91f4-9b3c52d80aec
+Q056,Format Teknis & Aturan Upload,4056.3,4.06,0,True,2ec120dd-eabf-4227-9159-d5fc555c01b4
+Q055,Format Teknis & Aturan Upload,4817.9,4.82,0,True,b70c5912-6096-4e0e-981d-ed10dfb8096e
+Q054,Format Teknis & Aturan Upload,6097.5,6.1,0,True,e9f8964f-a71c-433e-8cd1-239310617106
+Q053,Format Teknis & Aturan Upload,8082.6,8.08,0,False,b4913457-39a5-44e3-9a41-2a636550b227
+Q052,Format Teknis & Aturan Upload,9008.6,9.01,0,False,f51ae675-5532-4036-abf3-da679689f006
+Q051,Format Teknis & Aturan Upload,5227.6,5.23,0,True,b2fee45a-ca9f-4969-9451-0701b9fe760f
+Q050,Format Teknis & Aturan Upload,4722.0,4.72,0,True,5293c2f7-abba-4fa1-a04c-e4550c024646
+Q049,Format Teknis & Aturan Upload,5495.5,5.5,0,True,57f2dfe7-c867-4d40-b236-881dd7e7ca6c
+Q048,Format Teknis & Aturan Upload,10556.0,10.56,0,False,082af003-2b54-4c22-9c9f-eb7343c7215c
+Q047,Format Teknis & Aturan Upload,6834.0,6.83,0,True,c9052961-ad87-4ec2-82ac-a9f1b48dae8b
+Q046,Format Teknis & Aturan Upload,6883.6,6.88,0,True,06e91be6-eed2-4f63-9c29-6ec487e8ca92
+Q045,Format Teknis & Aturan Upload,7605.6,7.61,0,False,9d50cdf6-d799-4a6e-b3c1-1828242d28b4
+Q044,Format Teknis & Aturan Upload,7686.2,7.69,0,False,02d7133d-e7aa-46ad-8c8e-5575bc925c33
+Q043,Format Teknis & Aturan Upload,6640.1,6.64,0,True,3968fa83-7289-480d-b6ec-fa61ddb2de13
+Q042,Format Teknis & Aturan Upload,5387.2,5.39,0,True,d15efb97-de6c-427e-857a-44f4f97cdb95
+Q041,Format Teknis & Aturan Upload,8027.2,8.03,0,False,940ccec4-3999-4500-ab54-be575ed82b5a
+Q040,Format Teknis & Aturan Upload,17307.1,17.31,0,False,c9720f43-e74c-477f-83df-cc36baa24127
+Q039,Format Teknis & Aturan Upload,12281.4,12.28,0,False,bf702544-008f-46bc-bb30-76f512f4df4e
+Q038,Format Teknis & Aturan Upload,5561.0,5.56,0,True,bc0ce30c-efae-4ed3-bdbf-09accaf41c7b
+Q037,Format Teknis & Aturan Upload,6630.5,6.63,0,True,189b8be7-f3ae-4b49-bdf7-5961d34c708c
+Q036,Data Keluarga & Kondisi Khusus,7990.4,7.99,0,False,2b600de0-e4d4-4edd-b0d3-6d98dd8166da
+Q035,Data Keluarga & Kondisi Khusus,5506.2,5.51,0,True,e7a87d79-5479-459f-aa30-0bd4e2d54205
+Q034,Data Keluarga & Kondisi Khusus,5499.0,5.5,0,True,cb393626-23aa-48e8-8895-543c2cfe154e
+Q033,Data Keluarga & Kondisi Khusus,7577.0,7.58,0,False,3dc5163e-d79f-42d8-8047-7f3d1fdbcbee
+Q032,Data Keluarga & Kondisi Khusus,12300.1,12.3,0,False,ac4bcaf3-2228-4cb3-96c5-fefbd3c52346
+Q031,Data Keluarga & Kondisi Khusus,4319.8,4.32,0,True,613ef8d6-420d-4aaa-be21-ef9a44e9fb56
+Q030,Data Keluarga & Kondisi Khusus,9559.5,9.56,0,False,d2705d1a-e795-430f-bc83-c3edf1ad0719
+Q029,Data Keluarga & Kondisi Khusus,14682.5,14.68,0,False,818f0e1d-fba5-4d0a-9ab4-c8da0eeb1723
+Q028,Data Keluarga & Kondisi Khusus,4502.8,4.5,0,True,e71bfdf8-5d74-4706-8f71-42e476a9ca7c
+Q027,Data Keluarga & Kondisi Khusus,11112.6,11.11,0,False,e04b7c3d-c402-4427-92bb-5cd9c383e7e4
+Q026,Data Keluarga & Kondisi Khusus,8787.2,8.79,0,False,74706228-f5d0-408f-8ddd-323c62a9bcb5
+Q025,Data Keluarga & Kondisi Khusus,6612.1,6.61,0,True,7c47c3c6-5747-4c6e-b6cf-6026f209d4b2
+Q024,Data Keluarga & Kondisi Khusus,5952.2,5.95,0,True,f49505d0-048e-4ed4-8875-15103c848eef
+Q023,Data Keluarga & Kondisi Khusus,6947.1,6.95,0,True,b129b36b-7e76-464e-bc62-6334038d3f02
+Q022,Data Keluarga & Kondisi Khusus,11498.7,11.5,0,False,de5712f3-687f-4c26-bf38-d241d5b179ce
+Q021,Data Keluarga & Kondisi Khusus,6770.6,6.77,0,True,e406d630-0780-4694-b4c1-90c6149a2359
+Q020,Data Keluarga & Kondisi Khusus,4909.3,4.91,0,True,6f7d6229-73db-4110-ab13-d3e8c8d4f8f3
+Q019,Data Keluarga & Kondisi Khusus,7021.4,7.02,0,False,5ef90bc8-cc88-477f-a830-08859ee53331
+Q018,Data Keluarga & Kondisi Khusus,12672.9,12.67,0,False,36b9a195-a8ae-424c-bd54-c74f78a73aae
+Q017,Data Keluarga & Kondisi Khusus,24744.6,24.74,0,False,1e2330e6-5a55-4e78-96c5-c33dfcedd93b
+Q016,Data Keluarga & Kondisi Khusus,4767.4,4.77,0,True,e304841b-237d-4baa-86b6-8eb8ffd2ae2d
+Q015,Data Keluarga & Kondisi Khusus,12888.1,12.89,0,False,044de529-2327-42d1-a3d3-afd5b4bb3c7b
+Q014,Data Keluarga & Kondisi Khusus,7617.7,7.62,0,False,6bd512ad-f17c-4772-8563-71b8669a4683
+Q013,Data Keluarga & Kondisi Khusus,5190.2,5.19,0,True,c1a9e1eb-cda8-4987-9366-38bb4b0991e5
+Q012,Data Keluarga & Kondisi Khusus,12294.2,12.29,0,False,a80061e1-9d81-438b-8436-697b8951b70f
+Q011,Data Keluarga & Kondisi Khusus,19068.4,19.07,0,False,963868d0-18cd-4f44-9212-3ed3ea462b74
+Q010,Data Keluarga & Kondisi Khusus,4498.2,4.5,0,True,35a878d9-fae7-4940-b681-863a735d0a1e
+Q009,Data Keluarga & Kondisi Khusus,12466.2,12.47,0,False,dd5fb95a-5a2c-4853-9c5d-6e374cab4d48
+Q008,Data Keluarga & Kondisi Khusus,6486.9,6.49,0,True,a6ca09a7-ae05-47eb-9038-f13968ef4367
+Q007,Data Keluarga & Kondisi Khusus,7162.0,7.16,0,False,eab42f9d-a555-4c9b-b8b0-5b11b496e9ca
+Q006,Data Keluarga & Kondisi Khusus,6118.4,6.12,0,True,efd1a1e4-d2ba-4fe0-ad19-d7d421a86d81
+Q005,Data Keluarga & Kondisi Khusus,6016.5,6.02,0,True,b98c3595-7bec-45bd-abdd-62d9a490c332
+Q004,Data Keluarga & Kondisi Khusus,8674.3,8.67,0,False,2bb388d5-a8c9-4a95-afac-35b6a9b441be
+Q003,Data Keluarga & Kondisi Khusus,10696.4,10.7,0,False,09ec4508-9eaa-40c6-a2a2-b1b9a9a0bf16
+Q002,Data Keluarga & Kondisi Khusus,9184.2,9.18,0,False,8d679fab-8f7d-4af0-9f2b-3b6bdaf26333
+Q001,Data Keluarga & Kondisi Khusus,5516.0,5.52,0,True,17063c04-6612-4bcb-9943-b1c88a36d4a7
+Q010,Data Keluarga & Kondisi Khusus,9055.0,9.05,0,False,1e3d3b76-67e3-42aa-a020-3b4a2cbf413f
+Q009,Kendala Teknis Sistem,7606.8,7.61,0,False,fd8e4f7e-15a6-4414-98a5-cb805b8da284
+Q008,Kendala Teknis Sistem,7213.5,7.21,0,False,5bbe30bc-cae1-4d66-b523-0105f7d5e0e1
+Q007,Prosedural & Kebijakan PMB,4891.6,4.89,0,True,fd8dda78-d0c6-4b0b-a827-945e55d04b95
+Q006,Prosedural & Kebijakan PMB,4076.3,4.08,0,True,cc2aefc1-48ed-410a-a30e-da2b20d211d5
+Q005,Format Teknis & Aturan Upload,5040.5,5.04,0,True,e6daa997-3612-4925-b9d7-6dd7c33f539c
+Q004,Format Teknis & Aturan Upload,6320.1,6.32,0,True,055a4fe6-7160-49e7-8752-fbda3c0c21d3
+Q003,Data Keluarga & Kondisi Khusus,5786.9,5.79,0,True,2869c954-2d40-4cf7-b08e-5b01cb2ce8f6
+Q002,Data Keluarga & Kondisi Khusus,4750.4,4.75,0,True,913ec46f-24b2-42ca-b0f4-0fc41f3ba33c
+Q001,Data Keluarga & Kondisi Khusus,5838.8,5.84,0,True,b764c272-65ea-43a9-8ba6-1d0743d0da37

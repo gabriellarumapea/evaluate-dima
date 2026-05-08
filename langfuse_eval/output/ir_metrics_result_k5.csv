@@ -1,0 +1,117 @@
+﻿query_id,category,P@5,R@5,F1,RR,nDCG@5
+Q096,Kendala Teknis Sistem,0.4,0.6667,0.5,1.0,1.0
+Q095,Kendala Teknis Sistem,0.2,0.3333,0.25,1.0,1.0
+Q094,Kendala Teknis Sistem,0.4,0.6667,0.5,1.0,1.0
+Q093,Kendala Teknis Sistem,0.4,0.6667,0.5,1.0,1.0
+Q092,Kendala Teknis Sistem,0.4,0.6667,0.5,1.0,1.0
+Q091,Kendala Teknis Sistem,0.2,0.3333,0.25,1.0,1.0
+Q090,Kendala Teknis Sistem,0.2,0.3333,0.25,1.0,1.0
+Q089,Kendala Teknis Sistem,0.4,0.6667,0.5,1.0,1.0
+Q088,Kendala Teknis Sistem,0.2,0.3333,0.25,1.0,1.0
+Q087,Kendala Teknis Sistem,0.4,0.6667,0.5,1.0,1.0
+Q086,Kendala Teknis Sistem,0.4,0.6667,0.5,1.0,1.0
+Q085,Kendala Teknis Sistem,0.2,0.3333,0.25,1.0,1.0
+Q084,Kendala Teknis Sistem,0.4,0.6667,0.5,1.0,1.0
+Q083,Prosedural & Kebijakan PMB,0.2,0.3333,0.25,1.0,1.0
+Q082,Prosedural & Kebijakan PMB,0.4,0.6667,0.5,1.0,1.0
+Q081,Prosedural & Kebijakan PMB,0.2,0.3333,0.25,1.0,1.0
+Q080,Prosedural & Kebijakan PMB,0.4,0.6667,0.5,1.0,1.0
+Q079,Prosedural & Kebijakan PMB,0.2,0.3333,0.25,1.0,1.0
+Q078,Prosedural & Kebijakan PMB,0.4,0.6667,0.5,1.0,1.0
+Q077,Prosedural & Kebijakan PMB,0.4,0.6667,0.5,1.0,1.0
+Q076,Prosedural & Kebijakan PMB,0.2,0.3333,0.25,1.0,1.0
+Q075,Prosedural & Kebijakan PMB,0.2,0.3333,0.25,1.0,1.0
+Q074,Prosedural & Kebijakan PMB,0.4,0.6667,0.5,1.0,1.0
+Q073,Prosedural & Kebijakan PMB,0.4,0.6667,0.5,1.0,1.0
+Q072,Prosedural & Kebijakan PMB,0.4,0.6667,0.5,1.0,1.0
+Q071,Prosedural & Kebijakan PMB,0.4,0.6667,0.5,1.0,1.0
+Q070,Prosedural & Kebijakan PMB,0.4,0.6667,0.5,1.0,1.0
+Q069,Prosedural & Kebijakan PMB,0.2,0.3333,0.25,1.0,1.0
+Q068,Prosedural & Kebijakan PMB,0.4,0.6667,0.5,1.0,1.0
+Q067,Prosedural & Kebijakan PMB,0.4,0.6667,0.5,1.0,1.0
+Q066,Prosedural & Kebijakan PMB,0.2,0.3333,0.25,1.0,1.0
+Q065,Prosedural & Kebijakan PMB,0.4,0.6667,0.5,1.0,1.0
+Q064,Prosedural & Kebijakan PMB,0.4,0.6667,0.5,1.0,1.0
+Q063,Prosedural & Kebijakan PMB,0.2,0.3333,0.25,1.0,1.0
+Q062,Prosedural & Kebijakan PMB,0.6,1.0,0.75,1.0,1.0
+Q061,Format Teknis & Aturan Upload,0.2,0.5,0.2857,1.0,1.0
+Q060,Format Teknis & Aturan Upload,0.2,0.5,0.2857,1.0,1.0
+Q059,Format Teknis & Aturan Upload,0.4,1.0,0.5714,1.0,1.0
+Q058,Format Teknis & Aturan Upload,0.6,1.0,0.75,1.0,1.0
+Q057,Format Teknis & Aturan Upload,0.4,1.0,0.5714,1.0,1.0
+Q056,Format Teknis & Aturan Upload,0.2,0.5,0.2857,1.0,1.0
+Q055,Format Teknis & Aturan Upload,0.4,1.0,0.5714,1.0,1.0
+Q054,Format Teknis & Aturan Upload,0.2,0.5,0.2857,1.0,1.0
+Q053,Format Teknis & Aturan Upload,0.2,0.5,0.2857,1.0,1.0
+Q052,Format Teknis & Aturan Upload,0.2,0.5,0.2857,1.0,1.0
+Q051,Format Teknis & Aturan Upload,0.2,0.5,0.2857,1.0,1.0
+Q050,Format Teknis & Aturan Upload,0.4,1.0,0.5714,1.0,1.0
+Q049,Format Teknis & Aturan Upload,0.4,1.0,0.5714,1.0,1.0
+Q048,Format Teknis & Aturan Upload,0.2,0.5,0.2857,1.0,1.0
+Q047,Format Teknis & Aturan Upload,0.4,1.0,0.5714,1.0,1.0
+Q046,Format Teknis & Aturan Upload,0.4,1.0,0.5714,1.0,1.0
+Q045,Format Teknis & Aturan Upload,0.4,1.0,0.5714,1.0,1.0
+Q044,Format Teknis & Aturan Upload,0.4,1.0,0.5714,1.0,1.0
+Q043,Format Teknis & Aturan Upload,0.4,1.0,0.5714,1.0,1.0
+Q042,Format Teknis & Aturan Upload,0.4,1.0,0.5714,1.0,1.0
+Q041,Format Teknis & Aturan Upload,0.4,1.0,0.5714,1.0,1.0
+Q040,Format Teknis & Aturan Upload,0.2,0.5,0.2857,1.0,1.0
+Q039,Format Teknis & Aturan Upload,0.2,0.5,0.2857,1.0,1.0
+Q038,Format Teknis & Aturan Upload,0.4,1.0,0.5714,1.0,1.0
+Q037,Format Teknis & Aturan Upload,0.2,0.5,0.2857,1.0,1.0
+Q036,Data Keluarga & Kondisi Khusus,0.4,0.6667,0.5,1.0,1.0
+Q035,Data Keluarga & Kondisi Khusus,0.4,0.6667,0.5,1.0,1.0
+Q034,Data Keluarga & Kondisi Khusus,0.2,0.3333,0.25,1.0,1.0
+Q033,Data Keluarga & Kondisi Khusus,0.4,0.6667,0.5,1.0,1.0
+Q032,Data Keluarga & Kondisi Khusus,0.2,0.3333,0.25,1.0,1.0
+Q031,Data Keluarga & Kondisi Khusus,0.4,0.6667,0.5,1.0,1.0
+Q030,Data Keluarga & Kondisi Khusus,0.2,0.3333,0.25,1.0,1.0
+Q029,Data Keluarga & Kondisi Khusus,0.4,0.6667,0.5,1.0,1.0
+Q028,Data Keluarga & Kondisi Khusus,0.2,0.3333,0.25,1.0,1.0
+Q027,Data Keluarga & Kondisi Khusus,0.0,0.0,0.0,0.0,0.0
+Q026,Data Keluarga & Kondisi Khusus,0.2,0.3333,0.25,1.0,1.0
+Q025,Data Keluarga & Kondisi Khusus,0.4,0.6667,0.5,1.0,1.0
+Q024,Data Keluarga & Kondisi Khusus,0.4,0.6667,0.5,1.0,1.0
+Q023,Data Keluarga & Kondisi Khusus,0.4,0.6667,0.5,1.0,1.0
+Q022,Data Keluarga & Kondisi Khusus,0.2,0.3333,0.25,1.0,1.0
+Q021,Data Keluarga & Kondisi Khusus,0.2,0.3333,0.25,1.0,1.0
+Q020,Data Keluarga & Kondisi Khusus,0.4,0.6667,0.5,1.0,1.0
+Q019,Data Keluarga & Kondisi Khusus,0.4,0.6667,0.5,1.0,1.0
+Q018,Data Keluarga & Kondisi Khusus,0.2,0.3333,0.25,1.0,1.0
+Q017,Data Keluarga & Kondisi Khusus,0.2,0.3333,0.25,1.0,1.0
+Q016,Data Keluarga & Kondisi Khusus,0.2,0.3333,0.25,1.0,1.0
+Q015,Data Keluarga & Kondisi Khusus,0.2,0.3333,0.25,1.0,1.0
+Q014,Data Keluarga & Kondisi Khusus,0.4,0.6667,0.5,1.0,1.0
+Q013,Data Keluarga & Kondisi Khusus,0.4,0.6667,0.5,1.0,1.0
+Q012,Data Keluarga & Kondisi Khusus,0.6,1.0,0.75,1.0,1.0
+Q011,Data Keluarga & Kondisi Khusus,0.4,0.6667,0.5,1.0,1.0
+Q010,Data Keluarga & Kondisi Khusus,0.4,0.6667,0.5,1.0,1.0
+Q009,Data Keluarga & Kondisi Khusus,0.4,0.6667,0.5,1.0,1.0
+Q008,Data Keluarga & Kondisi Khusus,0.6,1.0,0.75,1.0,1.0
+Q007,Data Keluarga & Kondisi Khusus,0.2,0.3333,0.25,1.0,1.0
+Q006,Data Keluarga & Kondisi Khusus,0.4,0.6667,0.5,1.0,1.0
+Q005,Data Keluarga & Kondisi Khusus,0.4,0.6667,0.5,1.0,1.0
+Q004,Data Keluarga & Kondisi Khusus,0.2,0.3333,0.25,1.0,1.0
+Q003,Data Keluarga & Kondisi Khusus,0.4,0.6667,0.5,1.0,1.0
+Q002,Data Keluarga & Kondisi Khusus,0.4,0.6667,0.5,1.0,1.0
+Q001,Data Keluarga & Kondisi Khusus,0.4,0.6667,0.5,1.0,1.0
+Q074,Prosedural & Kebijakan PMB,0.0,0.0,0.0,0.0,0.0
+Q059,Format Teknis & Aturan Upload,0.0,0.0,0.0,0.0,0.0
+Q054,Format Teknis & Aturan Upload,0.0,0.0,0.0,0.0,0.0
+Q053,Format Teknis & Aturan Upload,0.0,0.0,0.0,0.0,0.0
+Q051,Format Teknis & Aturan Upload,0.0,0.0,0.0,0.0,0.0
+Q047,Format Teknis & Aturan Upload,0.0,0.0,0.0,0.0,0.0
+Q044,Format Teknis & Aturan Upload,0.0,0.0,0.0,0.0,0.0
+Q041,Format Teknis & Aturan Upload,0.0,0.0,0.0,0.0,0.0
+Q037,Format Teknis & Aturan Upload,0.0,0.0,0.0,0.0,0.0
+Q036,Data Keluarga & Kondisi Khusus,0.0,0.0,0.0,0.0,0.0
+Q010,Data Keluarga & Kondisi Khusus,0.4,0.6667,0.5,1.0,1.0
+Q009,Kendala Teknis Sistem,0.2,0.3333,0.25,1.0,1.0
+Q008,Kendala Teknis Sistem,0.2,0.3333,0.25,1.0,1.0
+Q007,Prosedural & Kebijakan PMB,0.8,1.0,0.8889,1.0,1.0
+Q006,Prosedural & Kebijakan PMB,0.6,1.0,0.75,1.0,1.0
+Q005,Format Teknis & Aturan Upload,0.0,0.0,0.0,0.0,0.0
+Q004,Format Teknis & Aturan Upload,0.0,0.0,0.0,0.0,0.0
+Q003,Data Keluarga & Kondisi Khusus,0.4,0.6667,0.5,1.0,1.0
+Q002,Data Keluarga & Kondisi Khusus,0.2,0.3333,0.25,1.0,1.0
+Q001,Data Keluarga & Kondisi Khusus,0.2,0.3333,0.25,1.0,1.0

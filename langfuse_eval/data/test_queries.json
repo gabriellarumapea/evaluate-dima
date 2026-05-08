@@ -1,0 +1,770 @@
+[
+  {
+    "id": "Q001",
+    "category": "Data Keluarga & Kondisi Khusus",
+    "question": "Bagaimana cara mengisi data ayah yang sudah meninggal di formulir DIM?",
+    "ground_truth": "Pilih status 'Sudah Meninggal' pada kolom status ayah. Isi penghasilan dengan 0 dan nomor HP dengan 0.",
+    "expected_answer_keywords": [],
+    "source": "generated_based_on_skripsi"
+  },
+  {
+    "id": "Q002",
+    "category": "Data Keluarga & Kondisi Khusus",
+    "question": "Ibu saya sudah wafat, apa yang harus diisi di kolom pekerjaan ibu?",
+    "ground_truth": "Pilih status 'Sudah Meninggal' pada kolom ibu. Kolom pekerjaan dapat diisi dengan pilihan yang tersedia atau dikosongkan sesuai petunjuk sistem.",
+    "expected_answer_keywords": [],
+    "source": "generated_based_on_skripsi"
+  },
+  {
+    "id": "Q003",
+    "category": "Data Keluarga & Kondisi Khusus",
+    "question": "Orang tua saya sakit berat dan tidak bisa bekerja, bagaimana mengisi penghasilan?",
+    "ground_truth": "Untuk orang tua yang sakit berat dan tidak bekerja, isi kolom penghasilan dengan 0.",
+    "expected_answer_keywords": [],
+    "source": "generated_based_on_skripsi"
+  },
+  {
+    "id": "Q004",
+    "category": "Data Keluarga & Kondisi Khusus",
+    "question": "Ayah saya sudah almarhum, apakah saya tetap harus mengisi data ayah?",
+    "ground_truth": "Ya, tetap isi data ayah. Pilih status 'Sudah Meninggal' dan isi kolom penghasilan serta HP dengan 0.",
+    "expected_answer_keywords": [],
+    "source": "generated_based_on_skripsi"
+  },
+  {
+    "id": "Q005",
+    "category": "Data Keluarga & Kondisi Khusus",
+    "question": "Berapa penghasilan yang harus diisi jika orang tua tidak bekerja?",
+    "ground_truth": "Jika orang tua tidak bekerja atau tidak memiliki penghasilan, isi kolom penghasilan dengan angka 0.",
+    "expected_answer_keywords": [],
+    "source": "generated_based_on_skripsi"
+  },
+  {
+    "id": "Q006",
+    "category": "Data Keluarga & Kondisi Khusus",
+    "question": "Saya yatim piatu, bagaimana cara mengisi data orang tua di DIM?",
+    "ground_truth": "Pilih status 'Sudah Meninggal' untuk kedua orang tua. Isi semua kolom terkait dengan 0 atau pilihan yang sesuai.",
+    "expected_answer_keywords": [],
+    "source": "generated_based_on_skripsi"
+  },
+  {
+    "id": "Q007",
+    "category": "Data Keluarga & Kondisi Khusus",
+    "question": "Orang tua saya bercerai, apakah tetap harus mengisi data kedua orang tua?",
+    "ground_truth": "Ya, isi data kedua orang tua sesuai kondisi aktual masing-masing. Pilih status yang sesuai untuk setiap orang tua.",
+    "expected_answer_keywords": [],
+    "source": "generated_based_on_skripsi"
+  },
+  {
+    "id": "Q008",
+    "category": "Data Keluarga & Kondisi Khusus",
+    "question": "Bagaimana mengisi nomor HP ayah jika ayah sudah meninggal?",
+    "ground_truth": "Jika ayah sudah meninggal, isi nomor HP dengan 0 dan pilih status 'Sudah Meninggal'.",
+    "expected_answer_keywords": [],
+    "source": "generated_based_on_skripsi"
+  },
+  {
+    "id": "Q009",
+    "category": "Data Keluarga & Kondisi Khusus",
+    "question": "Saya diasuh wali, bukan orang tua kandung. Bagaimana mengisi formulir DIM?",
+    "ground_truth": "Isi data orang tua kandung sesuai kondisi (almarhum/almarhumah jika sudah meninggal). Untuk data wali, isi pada kolom yang tersedia di bagian wali.",
+    "expected_answer_keywords": [],
+    "source": "generated_based_on_skripsi"
+  },
+  {
+    "id": "Q010",
+    "category": "Data Keluarga & Kondisi Khusus",
+    "question": "Kolom penghasilan orang tua wajib diisi tidak?",
+    "ground_truth": "Ya, kolom penghasilan wajib diisi. Jika orang tua tidak berpenghasilan atau sudah meninggal, isi dengan angka 0.",
+    "expected_answer_keywords": [],
+    "source": "generated_based_on_skripsi"
+  },
+  {
+    "id": "Q011",
+    "category": "Data Keluarga & Kondisi Khusus",
+    "question": "Bagaimana jika saya tidak tahu penghasilan orang tua secara pasti?",
+    "ground_truth": "Isi dengan perkiraan penghasilan per bulan sesuai kondisi sebenarnya. Pilih rentang penghasilan yang paling mendekati.",
+    "expected_answer_keywords": [],
+    "source": "generated_based_on_skripsi"
+  },
+  {
+    "id": "Q012",
+    "category": "Data Keluarga & Kondisi Khusus",
+    "question": "Apakah harus mengisi data saudara kandung di DIM PMB ITERA?",
+    "ground_truth": "Ya, isi jumlah tanggungan keluarga termasuk saudara kandung sesuai data KK.",
+    "expected_answer_keywords": [],
+    "source": "generated_based_on_skripsi"
+  },
+  {
+    "id": "Q013",
+    "category": "Data Keluarga & Kondisi Khusus",
+    "question": "Data tanggungan keluarga diisi berdasarkan apa?",
+    "ground_truth": "Data tanggungan keluarga diisi berdasarkan jumlah anggota keluarga yang masih menjadi tanggungan kepala keluarga, sesuai Kartu Keluarga.",
+    "expected_answer_keywords": [],
+    "source": "generated_based_on_skripsi"
+  },
+  {
+    "id": "Q014",
+    "category": "Data Keluarga & Kondisi Khusus",
+    "question": "Ayah saya bekerja informal/tidak tetap, diisi pekerjaan apa?",
+    "ground_truth": "Pilih jenis pekerjaan yang paling mendekati kondisi ayah, misalnya 'Wiraswasta' atau 'Buruh/Petani/Nelayan'.",
+    "expected_answer_keywords": [],
+    "source": "generated_based_on_skripsi"
+  },
+  {
+    "id": "Q015",
+    "category": "Data Keluarga & Kondisi Khusus",
+    "question": "Ibu saya ibu rumah tangga, diisi penghasilan berapa?",
+    "ground_truth": "Untuk ibu rumah tangga yang tidak berpenghasilan, isi kolom penghasilan dengan 0 dan pilih pekerjaan 'Ibu Rumah Tangga'.",
+    "expected_answer_keywords": [],
+    "source": "generated_based_on_skripsi"
+  },
+  {
+    "id": "Q016",
+    "category": "Data Keluarga & Kondisi Khusus",
+    "question": "Bagaimana cara mengisi data keluarga jika tinggal bersama kakek nenek?",
+    "ground_truth": "Isi data orang tua kandung sesuai kondisi aktual. Jika tinggal bersama kakek nenek karena orang tua meninggal, pilih status almarhum/almarhumah.",
+    "expected_answer_keywords": [],
+    "source": "generated_based_on_skripsi"
+  },
+  {
+    "id": "Q017",
+    "category": "Data Keluarga & Kondisi Khusus",
+    "question": "Nomor KK orang tua tidak saya ketahui, apa yang harus dilakukan?",
+    "ground_truth": "Cek KK fisik atau hubungi orang tua untuk mendapatkan nomor KK. Jika kesulitan, hubungi admin PMB di WA 08117212160.",
+    "expected_answer_keywords": [],
+    "source": "generated_based_on_skripsi"
+  },
+  {
+    "id": "Q018",
+    "category": "Data Keluarga & Kondisi Khusus",
+    "question": "Apakah data penghasilan orang tua akan diverifikasi?",
+    "ground_truth": "Ya, data penghasilan dapat diverifikasi oleh pihak ITERA. Isi data sesuai kondisi sebenarnya untuk menghindari masalah di kemudian hari.",
+    "expected_answer_keywords": [],
+    "source": "generated_based_on_skripsi"
+  },
+  {
+    "id": "Q019",
+    "category": "Data Keluarga & Kondisi Khusus",
+    "question": "Orang tua saya WNI tapi tinggal di luar negeri, bagaimana mengisi alamat?",
+    "ground_truth": "Isi alamat sesuai domisili aktual orang tua. Untuk luar negeri, isi sesuai petunjuk kolom yang tersedia atau hubungi admin PMB.",
+    "expected_answer_keywords": [],
+    "source": "generated_based_on_skripsi"
+  },
+  {
+    "id": "Q020",
+    "category": "Data Keluarga & Kondisi Khusus",
+    "question": "Bagaimana cara mengisi data keluarga untuk anak adopsi?",
+    "ground_truth": "Isi data orang tua adopsi yang tertera di dokumen resmi (KK/akta adopsi). Jika ragu, hubungi admin PMB di WA 08117212160.",
+    "expected_answer_keywords": [],
+    "source": "generated_based_on_skripsi"
+  },
+  {
+    "id": "Q021",
+    "category": "Data Keluarga & Kondisi Khusus",
+    "question": "Pekerjaan ayah saya PNS, termasuk kategori apa di DIM?",
+    "ground_truth": "Pilih kategori 'PNS/TNI/POLRI' atau kategori pekerjaan yang sesuai dengan pilihan yang tersedia di formulir.",
+    "expected_answer_keywords": [],
+    "source": "generated_based_on_skripsi"
+  },
+  {
+    "id": "Q022",
+    "category": "Data Keluarga & Kondisi Khusus",
+    "question": "Apakah semua kolom data keluarga harus diisi atau ada yang opsional?",
+    "ground_truth": "Sebagian besar kolom data keluarga wajib diisi. Kolom yang bertanda bintang (*) atau wajib harus diisi. Isi semua kolom semaksimal mungkin.",
+    "expected_answer_keywords": [],
+    "source": "generated_based_on_skripsi"
+  },
+  {
+    "id": "Q023",
+    "category": "Data Keluarga & Kondisi Khusus",
+    "question": "Data pendidikan terakhir orang tua wajib diisi?",
+    "ground_truth": "Ya, pendidikan terakhir orang tua wajib diisi sesuai ijazah terakhir yang dimiliki.",
+    "expected_answer_keywords": [],
+    "source": "generated_based_on_skripsi"
+  },
+  {
+    "id": "Q024",
+    "category": "Data Keluarga & Kondisi Khusus",
+    "question": "Bagaimana jika orang tua tidak punya ijazah atau tidak bersekolah?",
+    "ground_truth": "Pilih opsi 'Tidak Sekolah' atau 'SD' sesuai kondisi pendidikan orang tua yang sebenarnya.",
+    "expected_answer_keywords": [],
+    "source": "generated_based_on_skripsi"
+  },
+  {
+    "id": "Q025",
+    "category": "Data Keluarga & Kondisi Khusus",
+    "question": "Jumlah tanggungan keluarga apakah termasuk diri saya sendiri?",
+    "ground_truth": "Jumlah tanggungan biasanya tidak termasuk diri sendiri jika sudah terdaftar sebagai anggota keluarga. Isi sesuai petunjuk di formulir.",
+    "expected_answer_keywords": [],
+    "source": "generated_based_on_skripsi"
+  },
+  {
+    "id": "Q026",
+    "category": "Data Keluarga & Kondisi Khusus",
+    "question": "Orang tua sudah pensiun, diisi penghasilan dari pensiun atau 0?",
+    "ground_truth": "Isi dengan jumlah uang pensiun yang diterima per bulan, bukan 0. Penghasilan pensiun tetap dianggap sebagai penghasilan.",
+    "expected_answer_keywords": [],
+    "source": "generated_based_on_skripsi"
+  },
+  {
+    "id": "Q027",
+    "category": "Data Keluarga & Kondisi Khusus",
+    "question": "Apakah ada batas maksimal penghasilan yang bisa diinput di DIM?",
+    "ground_truth": "Isi penghasilan sesuai kondisi aktual tanpa batas maksimal. Pilih rentang penghasilan yang paling sesuai.",
+    "expected_answer_keywords": [],
+    "source": "generated_based_on_skripsi"
+  },
+  {
+    "id": "Q028",
+    "category": "Data Keluarga & Kondisi Khusus",
+    "question": "Saya tidak tinggal bersama orang tua, apakah mempengaruhi pengisian DIM?",
+    "ground_truth": "Isi data orang tua sesuai kondisi aktual mereka. Tempat tinggal kamu diisi terpisah sesuai alamat domisilimu.",
+    "expected_answer_keywords": [],
+    "source": "generated_based_on_skripsi"
+  },
+  {
+    "id": "Q029",
+    "category": "Data Keluarga & Kondisi Khusus",
+    "question": "Bagaimana cara mengisi data jika orang tua memiliki usaha sendiri?",
+    "ground_truth": "Pilih pekerjaan 'Wiraswasta' dan isi penghasilan dengan perkiraan pendapatan bersih per bulan dari usaha tersebut.",
+    "expected_answer_keywords": [],
+    "source": "generated_based_on_skripsi"
+  },
+  {
+    "id": "Q030",
+    "category": "Data Keluarga & Kondisi Khusus",
+    "question": "Apakah data keluarga di DIM sama dengan yang di formulir SNPMB?",
+    "ground_truth": "Data keluarga di DIM ITERA diisi secara terpisah dan mungkin memiliki format berbeda dari SNPMB. Isi sesuai petunjuk DIM ITERA.",
+    "expected_answer_keywords": [],
+    "source": "generated_based_on_skripsi"
+  },
+  {
+    "id": "Q031",
+    "category": "Data Keluarga & Kondisi Khusus",
+    "question": "Nomor telepon orang tua harus nomor aktif atau boleh yang lama?",
+    "ground_truth": "Isi dengan nomor HP yang aktif dan dapat dihubungi karena dapat digunakan untuk keperluan verifikasi.",
+    "expected_answer_keywords": [],
+    "source": "generated_based_on_skripsi"
+  },
+  {
+    "id": "Q032",
+    "category": "Data Keluarga & Kondisi Khusus",
+    "question": "Bagaimana jika orang tua tidak punya HP?",
+    "ground_truth": "Isi dengan nomor HP yang bisa dihubungi, misalnya nomor saudara atau tetangga yang bisa menyampaikan pesan. Jika benar-benar tidak ada, hubungi admin PMB.",
+    "expected_answer_keywords": [],
+    "source": "generated_based_on_skripsi"
+  },
+  {
+    "id": "Q033",
+    "category": "Data Keluarga & Kondisi Khusus",
+    "question": "Data alamat orang tua diisi sesuai KTP atau domisili sekarang?",
+    "ground_truth": "Isi alamat sesuai domisili aktual orang tua saat ini, bukan hanya mengacu pada KTP jika berbeda.",
+    "expected_answer_keywords": [],
+    "source": "generated_based_on_skripsi"
+  },
+  {
+    "id": "Q034",
+    "category": "Data Keluarga & Kondisi Khusus",
+    "question": "Apakah status pernikahan orang tua perlu diisi di DIM?",
+    "ground_truth": "Ya, isi status pernikahan orang tua sesuai kondisi aktual (menikah, cerai, atau janda/duda).",
+    "expected_answer_keywords": [],
+    "source": "generated_based_on_skripsi"
+  },
+  {
+    "id": "Q035",
+    "category": "Data Keluarga & Kondisi Khusus",
+    "question": "Orang tua saya menikah lagi, data siapa yang diisi di DIM?",
+    "ground_truth": "Isi data orang tua kandung (ayah dan ibu kandung). Untuk orang tua tiri atau wali, isi di kolom yang tersedia sesuai petunjuk formulir.",
+    "expected_answer_keywords": [],
+    "source": "generated_based_on_skripsi"
+  },
+  {
+    "id": "Q036",
+    "category": "Data Keluarga & Kondisi Khusus",
+    "question": "Kolom data saudara harus diisi berapa orang?",
+    "ground_truth": "Isi jumlah saudara kandung yang masih menjadi tanggungan keluarga sesuai data KK yang berlaku.",
+    "expected_answer_keywords": [],
+    "source": "generated_based_on_skripsi"
+  },
+  {
+    "id": "Q037",
+    "category": "Format Teknis & Aturan Upload",
+    "question": "Format NIK yang benar untuk pengisian DIM itu berapa digit?",
+    "ground_truth": "NIK harus terdiri dari 16 digit angka sesuai yang tertera pada KTP.",
+    "expected_answer_keywords": [],
+    "source": "generated_based_on_skripsi"
+  },
+  {
+    "id": "Q038",
+    "category": "Format Teknis & Aturan Upload",
+    "question": "Format tanggal lahir yang benar di DIM seperti apa?",
+    "ground_truth": "Format tanggal lahir menggunakan DD/MM/YYYY, contoh: 01/01/2006.",
+    "expected_answer_keywords": [],
+    "source": "generated_based_on_skripsi"
+  },
+  {
+    "id": "Q039",
+    "category": "Format Teknis & Aturan Upload",
+    "question": "Ukuran maksimal file foto yang bisa diupload di DIM berapa MB?",
+    "ground_truth": "Ukuran file foto yang diupload harus sesuai dengan ketentuan yang tertera di formulir DIM. Hubungi admin jika ada masalah upload.",
+    "expected_answer_keywords": [],
+    "source": "generated_based_on_skripsi"
+  },
+  {
+    "id": "Q040",
+    "category": "Format Teknis & Aturan Upload",
+    "question": "Format file apa saja yang diterima untuk upload dokumen di DIM?",
+    "ground_truth": "Format file yang diterima biasanya JPG, PNG, atau PDF sesuai ketentuan formulir DIM ITERA.",
+    "expected_answer_keywords": [],
+    "source": "generated_based_on_skripsi"
+  },
+  {
+    "id": "Q041",
+    "category": "Format Teknis & Aturan Upload",
+    "question": "Apakah foto KTP harus berwarna atau boleh hitam putih?",
+    "ground_truth": "Foto KTP sebaiknya berwarna dan jelas terbaca. Pastikan semua informasi pada KTP terlihat dengan jelas.",
+    "expected_answer_keywords": [],
+    "source": "generated_based_on_skripsi"
+  },
+  {
+    "id": "Q042",
+    "category": "Format Teknis & Aturan Upload",
+    "question": "Resolusi foto yang dibutuhkan untuk upload di DIM berapa?",
+    "ground_truth": "Gunakan foto dengan resolusi yang cukup jelas sehingga semua tulisan dapat terbaca. Ikuti ketentuan ukuran file yang ditetapkan.",
+    "expected_answer_keywords": [],
+    "source": "generated_based_on_skripsi"
+  },
+  {
+    "id": "Q043",
+    "category": "Format Teknis & Aturan Upload",
+    "question": "Apakah NIK harus sama persis dengan yang di KTP?",
+    "ground_truth": "Ya, NIK yang diisi harus sama persis dengan 16 digit NIK yang tertera pada KTP.",
+    "expected_answer_keywords": [],
+    "source": "generated_based_on_skripsi"
+  },
+  {
+    "id": "Q044",
+    "category": "Format Teknis & Aturan Upload",
+    "question": "Bolehkah foto dokumen menggunakan kamera HP?",
+    "ground_truth": "Boleh, asalkan foto jelas, tidak buram, tidak terpotong, dan semua informasi dapat terbaca dengan baik.",
+    "expected_answer_keywords": [],
+    "source": "generated_based_on_skripsi"
+  },
+  {
+    "id": "Q045",
+    "category": "Format Teknis & Aturan Upload",
+    "question": "Bagaimana jika NIK saya di KTP masih 15 digit (KTP lama)?",
+    "ground_truth": "NIK standar Indonesia adalah 16 digit. Jika KTP lama masih 15 digit, perbarui KTP di Dukcapil setempat atau hubungi admin PMB untuk solusi.",
+    "expected_answer_keywords": [],
+    "source": "generated_based_on_skripsi"
+  },
+  {
+    "id": "Q046",
+    "category": "Format Teknis & Aturan Upload",
+    "question": "Apakah NISN harus diisi dan formatnya bagaimana?",
+    "ground_truth": "NISN (Nomor Induk Siswa Nasional) terdiri dari 10 digit angka. Cek NISN di kartu pelajar atau melalui website data.kemdikbud.go.id.",
+    "expected_answer_keywords": [],
+    "source": "generated_based_on_skripsi"
+  },
+  {
+    "id": "Q047",
+    "category": "Format Teknis & Aturan Upload",
+    "question": "Nomor KK berapa digit dan di mana bisa ditemukan?",
+    "ground_truth": "Nomor KK terdiri dari 16 digit dan tertera di bagian atas Kartu Keluarga.",
+    "expected_answer_keywords": [],
+    "source": "generated_based_on_skripsi"
+  },
+  {
+    "id": "Q048",
+    "category": "Format Teknis & Aturan Upload",
+    "question": "Apakah scan KTP bisa menggunakan scanner atau harus foto langsung?",
+    "ground_truth": "Bisa menggunakan scanner maupun foto langsung, asalkan hasilnya jelas dan semua informasi terbaca dengan baik.",
+    "expected_answer_keywords": [],
+    "source": "generated_based_on_skripsi"
+  },
+  {
+    "id": "Q049",
+    "category": "Format Teknis & Aturan Upload",
+    "question": "Format nomor telepon yang benar di DIM bagaimana?",
+    "ground_truth": "Isi nomor telepon dengan format nomor HP aktif tanpa tanda hubung, contoh: 08123456789.",
+    "expected_answer_keywords": [],
+    "source": "generated_based_on_skripsi"
+  },
+  {
+    "id": "Q050",
+    "category": "Format Teknis & Aturan Upload",
+    "question": "Apakah ada ketentuan khusus untuk foto pas foto yang diupload?",
+    "ground_truth": "Foto pas foto harus jelas, background sesuai ketentuan, dan ukuran file memenuhi persyaratan yang ditetapkan di formulir DIM.",
+    "expected_answer_keywords": [],
+    "source": "generated_based_on_skripsi"
+  },
+  {
+    "id": "Q051",
+    "category": "Format Teknis & Aturan Upload",
+    "question": "Dokumen apa saja yang perlu dipersiapkan sebelum mengisi DIM?",
+    "ground_truth": "Siapkan KTP, KK, NISN, rapor/ijazah, dan dokumen pendukung lain sesuai jalur pendaftaran yang dipilih.",
+    "expected_answer_keywords": [],
+    "source": "generated_based_on_skripsi"
+  },
+  {
+    "id": "Q052",
+    "category": "Format Teknis & Aturan Upload",
+    "question": "Apakah nama di DIM harus sama persis dengan nama di KTP?",
+    "ground_truth": "Ya, nama yang diisi harus sama persis dengan nama yang tertera di KTP atau dokumen identitas resmi.",
+    "expected_answer_keywords": [],
+    "source": "generated_based_on_skripsi"
+  },
+  {
+    "id": "Q053",
+    "category": "Format Teknis & Aturan Upload",
+    "question": "Bagaimana format penulisan alamat yang benar di formulir DIM?",
+    "ground_truth": "Isi alamat lengkap sesuai domisili aktual, termasuk nama jalan, RT/RW, kelurahan, kecamatan, kabupaten/kota, dan provinsi.",
+    "expected_answer_keywords": [],
+    "source": "generated_based_on_skripsi"
+  },
+  {
+    "id": "Q054",
+    "category": "Format Teknis & Aturan Upload",
+    "question": "Apakah file PDF diperbolehkan untuk upload dokumen di DIM?",
+    "ground_truth": "Format yang diterima tergantung ketentuan formulir DIM. Biasanya JPG/PNG untuk foto dan PDF untuk dokumen tertentu.",
+    "expected_answer_keywords": [],
+    "source": "generated_based_on_skripsi"
+  },
+  {
+    "id": "Q055",
+    "category": "Format Teknis & Aturan Upload",
+    "question": "Berapa digit nomor peserta SNBP yang harus diisi?",
+    "ground_truth": "Nomor peserta SNBP terdiri dari beberapa digit sesuai yang tertera pada kartu peserta SNBP yang diterima dari sekolah.",
+    "expected_answer_keywords": [],
+    "source": "generated_based_on_skripsi"
+  },
+  {
+    "id": "Q056",
+    "category": "Format Teknis & Aturan Upload",
+    "question": "Apakah pengisian angka harus menggunakan titik atau koma untuk ribuan?",
+    "ground_truth": "Isi angka tanpa pemisah ribuan, cukup angka saja. Contoh: 3000000 bukan 3.000.000.",
+    "expected_answer_keywords": [],
+    "source": "generated_based_on_skripsi"
+  },
+  {
+    "id": "Q057",
+    "category": "Format Teknis & Aturan Upload",
+    "question": "Bagaimana jika ukuran foto terlalu besar melebihi batas upload?",
+    "ground_truth": "Kompres atau resize foto menggunakan aplikasi seperti Canva, ILovePDF, atau aplikasi kompresi foto lainnya hingga memenuhi batas ukuran.",
+    "expected_answer_keywords": [],
+    "source": "generated_based_on_skripsi"
+  },
+  {
+    "id": "Q058",
+    "category": "Format Teknis & Aturan Upload",
+    "question": "Apakah KTP orang tua juga perlu diupload di DIM?",
+    "ground_truth": "Cek persyaratan dokumen yang diminta di formulir DIM. Siapkan KTP orang tua jika diminta.",
+    "expected_answer_keywords": [],
+    "source": "generated_based_on_skripsi"
+  },
+  {
+    "id": "Q059",
+    "category": "Format Teknis & Aturan Upload",
+    "question": "Format email yang benar untuk didaftarkan di DIM bagaimana?",
+    "ground_truth": "Gunakan alamat email yang aktif dan valid, contoh: namaanda@gmail.com. Pastikan email dapat menerima notifikasi dari sistem DIM.",
+    "expected_answer_keywords": [],
+    "source": "generated_based_on_skripsi"
+  },
+  {
+    "id": "Q060",
+    "category": "Format Teknis & Aturan Upload",
+    "question": "Apakah ada batasan karakter untuk kolom nama di formulir DIM?",
+    "ground_truth": "Isi nama sesuai yang tertera di KTP. Jika ada batasan karakter, sistem akan memberikan notifikasi otomatis.",
+    "expected_answer_keywords": [],
+    "source": "generated_based_on_skripsi"
+  },
+  {
+    "id": "Q061",
+    "category": "Format Teknis & Aturan Upload",
+    "question": "Foto KK bisa diupload dalam format apa saja?",
+    "ground_truth": "Format yang diterima biasanya JPG atau PNG. Pastikan semua nomor dan nama anggota keluarga terlihat jelas.",
+    "expected_answer_keywords": [],
+    "source": "generated_based_on_skripsi"
+  },
+  {
+    "id": "Q062",
+    "category": "Prosedural & Kebijakan PMB",
+    "question": "Kapan deadline pengisian DIM untuk jalur SNBP?",
+    "ground_truth": "Deadline pengisian DIM untuk jalur SNBP adalah 30 April 2026.",
+    "expected_answer_keywords": [],
+    "source": "generated_based_on_skripsi"
+  },
+  {
+    "id": "Q063",
+    "category": "Prosedural & Kebijakan PMB",
+    "question": "Kapan batas akhir pengisian DIM untuk KIP-K?",
+    "ground_truth": "Deadline pengisian DIM untuk jalur KIP-K adalah 15 April 2026.",
+    "expected_answer_keywords": [],
+    "source": "generated_based_on_skripsi"
+  },
+  {
+    "id": "Q064",
+    "category": "Prosedural & Kebijakan PMB",
+    "question": "Apa itu DIM PMB ITERA?",
+    "ground_truth": "DIM (Data Isian Mahasiswa) PMB ITERA adalah formulir pengisian data yang wajib dilengkapi oleh calon mahasiswa yang diterima di ITERA sebelum proses daftar ulang.",
+    "expected_answer_keywords": [],
+    "source": "generated_based_on_skripsi"
+  },
+  {
+    "id": "Q065",
+    "category": "Prosedural & Kebijakan PMB",
+    "question": "Bagaimana langkah-langkah mengisi formulir DIM PMB ITERA?",
+    "ground_truth": "Login ke sistem DIM menggunakan nomor peserta dan password, isi semua data yang diminta secara lengkap dan benar, upload dokumen yang diperlukan, lalu submit formulir sebelum deadline.",
+    "expected_answer_keywords": [],
+    "source": "generated_based_on_skripsi"
+  },
+  {
+    "id": "Q066",
+    "category": "Prosedural & Kebijakan PMB",
+    "question": "Apakah DIM harus diisi sebelum daftar ulang?",
+    "ground_truth": "Ya, DIM wajib diisi dan diselesaikan sebelum proses daftar ulang sebagai mahasiswa baru ITERA.",
+    "expected_answer_keywords": [],
+    "source": "generated_based_on_skripsi"
+  },
+  {
+    "id": "Q067",
+    "category": "Prosedural & Kebijakan PMB",
+    "question": "Bagaimana cara login ke sistem DIM PMB ITERA?",
+    "ground_truth": "Login menggunakan nomor peserta ujian dan password yang telah diberikan. Akses melalui website resmi DIM PMB ITERA.",
+    "expected_answer_keywords": [],
+    "source": "generated_based_on_skripsi"
+  },
+  {
+    "id": "Q068",
+    "category": "Prosedural & Kebijakan PMB",
+    "question": "Apakah DIM bisa diisi setelah deadline?",
+    "ground_truth": "Tidak, pengisian DIM harus diselesaikan sebelum deadline yang ditentukan. Keterlambatan dapat mempengaruhi proses daftar ulang.",
+    "expected_answer_keywords": [],
+    "source": "generated_based_on_skripsi"
+  },
+  {
+    "id": "Q069",
+    "category": "Prosedural & Kebijakan PMB",
+    "question": "Apakah data DIM bisa diubah setelah disubmit?",
+    "ground_truth": "Kemungkinan terbatas. Setelah submit, perubahan data mungkin tidak bisa dilakukan sendiri. Hubungi admin PMB jika perlu perubahan data.",
+    "expected_answer_keywords": [],
+    "source": "generated_based_on_skripsi"
+  },
+  {
+    "id": "Q070",
+    "category": "Prosedural & Kebijakan PMB",
+    "question": "Apa yang terjadi jika DIM tidak diisi tepat waktu?",
+    "ground_truth": "Keterlambatan pengisian DIM dapat mengakibatkan tidak bisa mengikuti proses daftar ulang dan berpotensi kehilangan status sebagai mahasiswa baru.",
+    "expected_answer_keywords": [],
+    "source": "generated_based_on_skripsi"
+  },
+  {
+    "id": "Q071",
+    "category": "Prosedural & Kebijakan PMB",
+    "question": "Apakah ada biaya untuk mengisi DIM PMB ITERA?",
+    "ground_truth": "Pengisian DIM PMB ITERA tidak dipungut biaya. Ini adalah proses administrasi gratis untuk calon mahasiswa baru.",
+    "expected_answer_keywords": [],
+    "source": "generated_based_on_skripsi"
+  },
+  {
+    "id": "Q072",
+    "category": "Prosedural & Kebijakan PMB",
+    "question": "Siapa yang bisa dihubungi jika ada pertanyaan tentang DIM?",
+    "ground_truth": "Hubungi admin PMB ITERA melalui WhatsApp di nomor 08117212160 untuk pertanyaan dan kendala terkait pengisian DIM.",
+    "expected_answer_keywords": [],
+    "source": "generated_based_on_skripsi"
+  },
+  {
+    "id": "Q073",
+    "category": "Prosedural & Kebijakan PMB",
+    "question": "Apakah DIM PMB ITERA sama untuk semua jalur masuk?",
+    "ground_truth": "Formulir DIM umumnya sama untuk semua jalur, namun mungkin ada beberapa perbedaan persyaratan dokumen tergantung jalur masuk (SNBP, SNBT, KIP-K, dll).",
+    "expected_answer_keywords": [],
+    "source": "generated_based_on_skripsi"
+  },
+  {
+    "id": "Q074",
+    "category": "Prosedural & Kebijakan PMB",
+    "question": "Bagaimana cara mengetahui apakah DIM sudah berhasil disubmit?",
+    "ground_truth": "Setelah submit berhasil, sistem biasanya menampilkan konfirmasi atau notifikasi. Cek status pengisian di dashboard akun DIM kamu.",
+    "expected_answer_keywords": [],
+    "source": "generated_based_on_skripsi"
+  },
+  {
+    "id": "Q075",
+    "category": "Prosedural & Kebijakan PMB",
+    "question": "Apakah perlu mencetak atau menyimpan bukti pengisian DIM?",
+    "ground_truth": "Simpan bukti submit atau tangkapan layar konfirmasi sebagai arsip. Cetak jika diperlukan untuk keperluan daftar ulang.",
+    "expected_answer_keywords": [],
+    "source": "generated_based_on_skripsi"
+  },
+  {
+    "id": "Q076",
+    "category": "Prosedural & Kebijakan PMB",
+    "question": "Apa perbedaan deadline DIM untuk jalur SNBP dan SNBT?",
+    "ground_truth": "Deadline DIM untuk SNBP adalah 30 April 2026, sedangkan untuk KIP-K adalah 15 April 2026. Cek deadline spesifik untuk jalur SNBT di pengumuman resmi.",
+    "expected_answer_keywords": [],
+    "source": "generated_based_on_skripsi"
+  },
+  {
+    "id": "Q077",
+    "category": "Prosedural & Kebijakan PMB",
+    "question": "Apakah orang tua perlu ikut serta dalam pengisian DIM?",
+    "ground_truth": "Data orang tua wajib diisi, namun pengisian dapat dilakukan sendiri oleh calon mahasiswa dengan menyiapkan data dari orang tua terlebih dahulu.",
+    "expected_answer_keywords": [],
+    "source": "generated_based_on_skripsi"
+  },
+  {
+    "id": "Q078",
+    "category": "Prosedural & Kebijakan PMB",
+    "question": "Bagaimana jika saya lupa password untuk login DIM?",
+    "ground_truth": "Gunakan fitur lupa password yang tersedia di halaman login, atau hubungi admin PMB di WA 08117212160 untuk reset password.",
+    "expected_answer_keywords": [],
+    "source": "generated_based_on_skripsi"
+  },
+  {
+    "id": "Q079",
+    "category": "Prosedural & Kebijakan PMB",
+    "question": "Apakah ada panduan resmi pengisian DIM dari ITERA?",
+    "ground_truth": "Ya, panduan pengisian DIM tersedia di website resmi PMB ITERA. Bisa juga bertanya melalui chatbot DIMA atau WA admin PMB.",
+    "expected_answer_keywords": [],
+    "source": "generated_based_on_skripsi"
+  },
+  {
+    "id": "Q080",
+    "category": "Prosedural & Kebijakan PMB",
+    "question": "Berapa lama proses pengisian DIM biasanya memakan waktu?",
+    "ground_truth": "Waktu pengisian tergantung kelengkapan dokumen dan data. Siapkan semua dokumen terlebih dahulu agar proses pengisian lebih cepat, biasanya 30-60 menit.",
+    "expected_answer_keywords": [],
+    "source": "generated_based_on_skripsi"
+  },
+  {
+    "id": "Q081",
+    "category": "Prosedural & Kebijakan PMB",
+    "question": "Apakah DIM bisa diisi menggunakan HP atau harus laptop?",
+    "ground_truth": "DIM bisa diisi menggunakan HP maupun laptop. Namun untuk kemudahan upload dokumen, disarankan menggunakan laptop atau komputer.",
+    "expected_answer_keywords": [],
+    "source": "generated_based_on_skripsi"
+  },
+  {
+    "id": "Q082",
+    "category": "Prosedural & Kebijakan PMB",
+    "question": "Bagaimana cara mengecek status pengisian DIM saya?",
+    "ground_truth": "Login ke akun DIM dan cek dashboard atau status formulir. Jika ada kendala, hubungi admin PMB di WA 08117212160.",
+    "expected_answer_keywords": [],
+    "source": "generated_based_on_skripsi"
+  },
+  {
+    "id": "Q083",
+    "category": "Prosedural & Kebijakan PMB",
+    "question": "Apakah ada sanksi jika data yang diisi di DIM tidak akurat?",
+    "ground_truth": "Ya, data yang tidak akurat dapat berakibat pada pembatalan status mahasiswa baru. Isi data sesuai kondisi sebenarnya.",
+    "expected_answer_keywords": [],
+    "source": "generated_based_on_skripsi"
+  },
+  {
+    "id": "Q084",
+    "category": "Kendala Teknis Sistem",
+    "question": "Kenapa saya tidak bisa submit formulir DIM, selalu error?",
+    "ground_truth": "Coba refresh halaman, clear cache browser, atau gunakan browser lain. Jika masih error, hubungi admin PMB di WA 08117212160.",
+    "expected_answer_keywords": [],
+    "source": "generated_based_on_skripsi"
+  },
+  {
+    "id": "Q085",
+    "category": "Kendala Teknis Sistem",
+    "question": "Gagal upload foto KTP, bagaimana solusinya?",
+    "ground_truth": "Pastikan format file JPG/PNG dan ukuran sesuai ketentuan. Kompres foto jika terlalu besar. Jika masih gagal, hubungi admin PMB.",
+    "expected_answer_keywords": [],
+    "source": "generated_based_on_skripsi"
+  },
+  {
+    "id": "Q086",
+    "category": "Kendala Teknis Sistem",
+    "question": "Sistem DIM error saat saya isi, data saya hilang tidak?",
+    "ground_truth": "Coba refresh dan login kembali. Data yang sudah tersimpan sebelum error biasanya tidak hilang. Isi kembali bagian yang belum tersimpan.",
+    "expected_answer_keywords": [],
+    "source": "generated_based_on_skripsi"
+  },
+  {
+    "id": "Q087",
+    "category": "Kendala Teknis Sistem",
+    "question": "Kenapa halaman DIM loading terus dan tidak bisa dibuka?",
+    "ground_truth": "Coba gunakan browser lain (Chrome, Firefox, Edge), clear cache, atau coba akses dari perangkat berbeda. Hubungi admin jika masalah berlanjut.",
+    "expected_answer_keywords": [],
+    "source": "generated_based_on_skripsi"
+  },
+  {
+    "id": "Q088",
+    "category": "Kendala Teknis Sistem",
+    "question": "Tombol submit tidak muncul di halaman DIM, kenapa?",
+    "ground_truth": "Kemungkinan ada kolom yang belum terisi atau ada validasi yang belum terpenuhi. Periksa semua halaman formulir dan pastikan semua kolom wajib sudah terisi.",
+    "expected_answer_keywords": [],
+    "source": "generated_based_on_skripsi"
+  },
+  {
+    "id": "Q089",
+    "category": "Kendala Teknis Sistem",
+    "question": "Saya sudah submit tapi tidak ada konfirmasi, berhasil atau tidak?",
+    "ground_truth": "Cek email yang didaftarkan untuk notifikasi konfirmasi. Login kembali dan periksa status di dashboard. Jika ragu, hubungi admin PMB.",
+    "expected_answer_keywords": [],
+    "source": "generated_based_on_skripsi"
+  },
+  {
+    "id": "Q090",
+    "category": "Kendala Teknis Sistem",
+    "question": "Bagaimana jika sistem DIM down saat mendekati deadline?",
+    "ground_truth": "Jangan panik, coba akses beberapa saat kemudian. Laporkan ke admin PMB di WA 08117212160 agar dapat dipertimbangkan perpanjangan waktu.",
+    "expected_answer_keywords": [],
+    "source": "generated_based_on_skripsi"
+  },
+  {
+    "id": "Q091",
+    "category": "Kendala Teknis Sistem",
+    "question": "Akun DIM saya terkunci setelah beberapa kali salah password, bagaimana?",
+    "ground_truth": "Hubungi admin PMB di WA 08117212160 untuk membuka kunci akun atau reset password.",
+    "expected_answer_keywords": [],
+    "source": "generated_based_on_skripsi"
+  },
+  {
+    "id": "Q092",
+    "category": "Kendala Teknis Sistem",
+    "question": "File yang sudah diupload tidak muncul di sistem, bagaimana?",
+    "ground_truth": "Refresh halaman dan cek kembali. Jika file masih tidak muncul, coba upload ulang. Pastikan ukuran dan format file sesuai ketentuan.",
+    "expected_answer_keywords": [],
+    "source": "generated_based_on_skripsi"
+  },
+  {
+    "id": "Q093",
+    "category": "Kendala Teknis Sistem",
+    "question": "Kenapa sistem DIM meminta verifikasi email tapi email tidak masuk?",
+    "ground_truth": "Cek folder spam/junk email. Tunggu beberapa menit dan coba kirim ulang verifikasi. Jika masih tidak masuk, hubungi admin PMB.",
+    "expected_answer_keywords": [],
+    "source": "generated_based_on_skripsi"
+  },
+  {
+    "id": "Q094",
+    "category": "Kendala Teknis Sistem",
+    "question": "Browser apa yang paling cocok digunakan untuk mengisi DIM?",
+    "ground_truth": "Gunakan browser terbaru seperti Google Chrome atau Mozilla Firefox untuk pengalaman terbaik. Hindari browser yang sudah usang.",
+    "expected_answer_keywords": [],
+    "source": "generated_based_on_skripsi"
+  },
+  {
+    "id": "Q095",
+    "category": "Kendala Teknis Sistem",
+    "question": "Data yang saya isi tidak tersimpan otomatis, harus save manual?",
+    "ground_truth": "Klik tombol simpan atau next di setiap halaman untuk menyimpan data. Jangan menutup browser tanpa menyimpan data terlebih dahulu.",
+    "expected_answer_keywords": [],
+    "source": "generated_based_on_skripsi"
+  },
+  {
+    "id": "Q096",
+    "category": "Kendala Teknis Sistem",
+    "question": "Bagaimana cara mengecek apakah status berkas saya sudah diverifikasi?",
+    "ground_truth": "Login ke akun DIM dan cek status di dashboard. Notifikasi verifikasi biasanya dikirim ke email yang didaftarkan.",
+    "expected_answer_keywords": [],
+    "source": "generated_based_on_skripsi"
+  }
+]

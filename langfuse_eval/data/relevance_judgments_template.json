@@ -1,0 +1,23 @@
+[
+  {
+    "query_id": "Q001",
+    "category": "Data Keluarga & Kondisi Khusus",
+    "question": "Bagaimana cara mengisi data orang tua yang sudah meninggal di formulir DIM?",
+    "top_k": 8,
+    "judgments": [
+      {
+        "rank": 1,
+        "document": "CONTOH_DOKUMEN.md",
+        "content_preview": "[Isi preview otomatis dari Step 3]...",
+        "score": null
+      },
+      {
+        "rank": 2,
+        "document": "CONTOH_DOKUMEN_2.md",
+        "content_preview": "[Isi preview otomatis dari Step 3]...",
+        "score": null
+      }
+    ],
+    "total_relevant_in_kb": null
+  }
+]
